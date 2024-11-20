@@ -1,0 +1,72 @@
+[
+    {  "id":1,
+       "name":"story book",
+        "Price":"Rs 110",
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/literary-treasure-trove-stack-books-beckons-bookstore_896558-2994.jpg"},
+
+        {  "id":2,
+        "name":"horror book",
+         "Price":"Rs 110",
+         "category":"Free",
+         "image":"https://img.freepik.com/premium-photo/literary-treasure-trove-stack-books-beckons-bookstore_896558-2994.jpg"},
+
+         {  "id":3,
+         "name":"comic book",
+          "Price":"Rs 110",
+          "category":"Free",
+          "image":"https://img.freepik.com/premium-photo/literary-treasure-trove-stack-books-beckons-bookstore_896558-2994.jpg"},
+        
+          {  "id":4,
+          "name":"novel book",
+           "Price":"Rs 110",
+           "category":"Free",
+           "image":"https://img.freepik.com/premium-photo/literary-treasure-trove-stack-books-beckons-bookstore_896558-2994.jpg"},
+           
+           {  "id":5,
+           "name":"moral book",
+            "Price":"Rs 110",
+            "category":"Free",
+            "image":"https://img.freepik.com/premium-photo/literary-treasure-trove-stack-books-beckons-bookstore_896558-2994.jpg"},
+
+            {  "id":6,
+            "name":"marvel book",
+             "Price":"Rs 999",
+             "category":"Paid",
+             "image":"https://img.freepik.com/premium-photo/literary-treasure-trove-stack-books-beckons-bookstore_896558-2994.jpg"},
+             
+             {  "id":7,
+             "name":"Dc book",
+              "Price":"Rs 999",
+              "category":"Paid",
+              "image":"https://img.freepik.com/premium-photo/literary-treasure-trove-stack-books-beckons-bookstore_896558-2994.jpg"},
+
+              {  "id":8,
+             "name":"Harry Potter book",
+              "Price":"Rs 1999",
+              "category":"Paid",
+              "image":"https://img.freepik.com/premium-photo/literary-treasure-trove-stack-books-beckons-bookstore_896558-2994.jpg"} ,
+              {  "id":9,
+             "name":"Hogward Magic School book",
+              "Price":"Rs 999",
+              "category":"Paid",
+              "image":"https://img.freepik.com/premium-photo/literary-treasure-trove-stack-books-beckons-bookstore_896558-2994.jpg"} ,
+              
+              {  "id":10,
+             "name":"The Hulk book",
+              "Price":"Rs 999",
+              "category":"Paid",
+              "image":"https://img.freepik.com/premium-photo/literary-treasure-trove-stack-books-beckons-bookstore_896558-2994.jpg"},
+              
+              {  "id":11,
+             "name":"The Lion King book",
+              "Price":"Rs 1999",
+              "category":"Paid",
+              "image":"https://img.freepik.com/premium-photo/literary-treasure-trove-stack-books-beckons-bookstore_896558-2994.jpg"},
+              
+              {  "id":12,
+             "name":"Wisdom book",
+              "Price":"Rs 1999",
+              "category":"Paid",
+              "image":"https://img.freepik.com/premium-photo/literary-treasure-trove-stack-books-beckons-bookstore_896558-2994.jpg"} 
+]
