@@ -1,5 +1,4 @@
 import React from "react";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 
 const Card = ({ item }) => {
@@ -25,7 +24,7 @@ const Card = ({ item }) => {
               <div className="badge badge-outline w-auto bg-green-500 text-black dark:text-white p-4 hover:cursor-pointer justify-between">
                 <div className="flex items-center justify-between w-14">
                 <h2>Buy</h2>
-                <i class="fa-solid fa-cart-shopping"></i>
+                <i className="fa-solid fa-cart-shopping"></i>
                 </div>
                 </div>
             </div>
